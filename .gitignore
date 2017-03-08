@@ -4,6 +4,8 @@
 # Credential Files - pushing or sharing these is a security risk#
 twitter_key.py
 twitter_key.pyc
+twitter-keys.py
+twitter-keys.pyc
 credentials.py
 credentials.pyc
 
